@@ -1,0 +1,5 @@
+build
+dist
+web/node_modules
+nbproject
+nbproject/private/private.xml
